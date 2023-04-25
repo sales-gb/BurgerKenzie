@@ -1,22 +1,21 @@
 # BurgerKenzie
 
-In this academic project, I developed a burger joint application using React and TypeScript. The website has several features to provide a better user experience.
+Neste projeto acadêmico, desenvolvi uma aplicação de uma hamburgueria utilizando React e TypeScript. O site possui diversas funcionalidades para proporcionar uma melhor experiência ao usuário.
 
-On the login screen, the user can sign up and log in to their account to access the application features.
+Na tela de login, o usuário pode se cadastrar e efetuar o login em sua conta para acessar as funcionalidades da aplicação.
 
-The home page presents a selection of available products, allowing the user to add and remove items from the cart. To avoid item duplication, the application allows adding only one product per ID.
+A página inicial apresenta uma seleção de produtos disponíveis, permitindo ao usuário adicionar e remover itens do carrinho. Para evitar a duplicação de itens, a aplicação permite adicionar apenas um produto por ID.
 
-Currently, the application does not display an item counter in the cart, but this functionality will be added in the future.
+Atualmente, a aplicação não apresenta um contador de itens no carrinho, mas essa funcionalidade será adicionada futuramente.
 
-With these features, the application aims to offer a more intuitive and easy shopping experience to users, allowing them to find the products they want and manage their carts with ease.
+Com essas funcionalidades, a aplicação busca oferecer uma experiência de compra mais intuitiva e facilitada aos usuários, permitindo que eles encontrem os produtos que desejam e gerenciem seus carrinhos com facilidade.
 
-I'm excited about the project and I hope you like it too! Check out the login and home screen images below.
+Estou animado com o projeto e espero que você também goste dele! Confira as imagens da tela de login e da home abaixo.
+
+### Teste <a href="https://kenzie-burguer-v2-sales-gb.vercel.app/">aqui!</a> 😁
 
 
-### Test it out <a href="https://kenzie-burguer-v2-sales-gb.vercel.app/">here!</a> 😁
-
-
-## See below some images of the app!
+## Segue abaixo algumas imagens da aplicação!!
 
 ### Login
 <img src="https://res.cloudinary.com/dhavjx2gp/image/upload/v1682016434/KenzieBurger-Login_s7u8wp.svg" alt="Login Kenzie Buger">
